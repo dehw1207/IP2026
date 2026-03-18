@@ -5,3 +5,4 @@
 [![Video Label](http://img.youtube.com/vi/ny7a88AN5TU/0.jpg)](https://youtu.be/ny7a88AN5TU)
 
 # Homework 3
+<img width="560" height="360" alt="Image" src="https://github.com/user-attachments/assets/ecd349a3-dd58-4d5b-a457-736399064a62" />
